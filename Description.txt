@@ -1,0 +1,2 @@
+- uses PRAW (python library)
+- counts the number of times a game is mentioned in posts with a search criteria like "what is your favorite snes game"
